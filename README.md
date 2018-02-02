@@ -1,0 +1,2 @@
+# Miriabot_learning
+Seq2Seqでみりあちゃんボットの学習をする
